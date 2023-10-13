@@ -2,3 +2,6 @@
 
 
 # Learn_c++
+
+# what is c++?
+  High level General purpose programin language 
