@@ -4,4 +4,5 @@
 # Learn_c++
 
 # what is c++?
-  High level General purpose programin language 
+  High level General purpose programin language
+  It was developed by # Bjarne strustrup 
