@@ -3,7 +3,7 @@
 
 # Learn_c++
 
-# what is c++?
+# What is c++?
   High level General purpose programin language
   It was developed by *Bjarne strustrup* at Bell lab in 1980's in USA
 
