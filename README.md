@@ -31,7 +31,28 @@ class demo{
 };
 int main(){
 	demo obj;
-	obj.method();
+	obj.method1();
+	return 0;
+}
+```
+## Encapsulation
+- Bundling data and methods that operate on that data within a single unit (class).
+- Hides the internal details from the outside world.
+```
+#include<iostream>
+using namespace std;
+class demo{
+	private:
+		int a=10;//Class Data Member is Private in nature
+	public:
+	void method1(){ // Class Member Function must be Public in nature
+		cout<<"Class Method"<<endl;
+		cout<<a;
+	}
+};
+int main(){
+	demo obj;
+	obj.method1();
 	return 0;
 }
 ```
