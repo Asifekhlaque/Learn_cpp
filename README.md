@@ -14,3 +14,24 @@
      main(){
        cout<<"Hello word";
      }
+# C++ Object-Oriented Programming (OOPs) 
+## Class
+- A blueprint or template for creating objects.
+- Defines attributes (data members) and behaviors (member functions/methods).
+## Object
+- An instance of a class.
+- Represents a real-world entity and encapsulates data and behavior.
+```
+#include<iostream>
+using namespace std;
+class demo{
+	void method1(){
+		cout<<"Class Method";
+	}
+};
+int main(){
+	demo obj;
+	obj.method();
+	return 0;
+}
+```
