@@ -38,7 +38,7 @@ int main(){
 ## Encapsulation
 - Bundling data and methods that operate on that data within a single unit (class).
 - Hides the internal details from the outside world.
-```
+```c++
 #include<iostream>
 using namespace std;
 class demo{
