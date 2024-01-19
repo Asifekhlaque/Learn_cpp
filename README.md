@@ -21,7 +21,7 @@
 ## Object
 - An instance of a class.
 - Represents a real-world entity and encapsulates data and behavior.
-```
+```c++
 #include<iostream>
 using namespace std;
 class demo{
